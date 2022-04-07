@@ -30,7 +30,7 @@ If everything works you should be able to activate the Python environment by ent
 
 ## Troubleshooting
 
-If something with your python version is not working, you might need to change the first line in `setup.sh` or `setup.ps1`
+If somethin with your python version is not working, you might need to change the first line in `setup.sh` or `setup.ps1`
 from
 
 ```
